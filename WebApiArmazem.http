@@ -1,0 +1,6 @@
+@WebApiArmazem_HostAddress = http://localhost:5237
+
+GET {{WebApiArmazem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
