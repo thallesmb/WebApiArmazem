@@ -1,5 +1,5 @@
 📦 API de Armazém – Gerenciamento de Produtos
-Esta API foi desenvolvida com o objetivo de oferecer um serviço completo de CRUD de produtos para um sistema de armazém. Com ela, é possível cadastrar, consultar, atualizar e excluir produtos, mantendo o controle eficiente do estoque.
+Esta API foi desenvolvida com o objetivo de oferecer um serviço completo de CRUD de produtos para um sistema de armazém. Com ela, é possível cadastrar, consultar, atualizar e excluir produtos.
 
 A API foi construída com foco em clareza, padronização e boas práticas, utilizando as tecnologias modernas do ecossistema .NET.
 
